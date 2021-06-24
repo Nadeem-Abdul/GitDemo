@@ -6,6 +6,7 @@ public class AppiumTest {
 	@Test
 	public void NativeAppAndroid() {
 		System.out.println("NativeAppAndroid");
+		System.out.println("This is the changed after clone");
 	}
 	
 	@Test
