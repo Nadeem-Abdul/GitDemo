@@ -7,6 +7,7 @@ public class AppiumTest {
 	public void NativeAppAndroid() {
 		System.out.println("NativeAppAndroid");
 		System.out.println("This is the changed after clone");
+		System.out.println("This has changed by gitX person");
 	}
 	
 	@Test

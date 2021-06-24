@@ -9,6 +9,8 @@ public class RetsAPITest {
 	public void PostJira() {
 		//Assert.assertTrue(false);
 		System.out.println("PostJira");
+		//gitX changes
+		System.out.println("PostJira23");
 	}
 	
 	@Test
