@@ -16,5 +16,9 @@ public class RetsAPITest {
 	@Test
 	public void deleteTwitter() {
 		System.out.println("deleteTwitter");
+		//Git Demo changed
+		System.out.println("dfsjkfs");
+		System.out.println("acmnbamca");
+		System.out.println("asajka");
 	}
 }
