@@ -1,0 +1,4 @@
+# Created at 2021-02-23T08:27:31.487
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Eclipse\Mavenjava\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
