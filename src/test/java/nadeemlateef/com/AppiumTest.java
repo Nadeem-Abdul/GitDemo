@@ -14,4 +14,9 @@ public class AppiumTest {
 	public void IOSApp() {
 		System.out.println("IOSApp");
 	}
+	
+	@Test
+	public void GitXChild_Branch() {
+		System.out.println("IOSApp");
+	}
 }
