@@ -12,6 +12,10 @@ public class AppiumTest {
 	
 	@Test
 	public void IOSApp() {
-		System.out.println("IOSApp");
+		System.out.println("IOSApp");}
+		
+		@Test
+		public void Demo1() {
+			System.out.println("GIT MASTER");
 	}
 }
